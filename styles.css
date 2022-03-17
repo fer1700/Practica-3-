@@ -1,0 +1,35 @@
+nav{
+    height: 75px;
+    background-color:#9D8189;
+    text-align: center;
+  }
+
+  nav ul{
+     list-style: none;
+     display: inline-block;
+     padding:10px;
+  }
+
+  nav ul li{
+      float: left;
+  }
+
+  nav ul li a {
+      color: cornsilk;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 25px;
+      padding: 5px;
+  }
+
+  nav ul li a:hover{
+    background-color: #9D8189
+  }
+
+footer{
+  margin-top: 50px;
+  color: #D8E2DC;
+   text-align:center;
+  background-color: #9D8189;
+}
+ 
